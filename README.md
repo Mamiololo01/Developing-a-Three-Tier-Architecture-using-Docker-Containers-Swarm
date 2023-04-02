@@ -211,6 +211,8 @@ Lastly, I will create a Redis service for our application layer of our 3-tiered 
 
 sudo docker service create --name caching_DB --replicas 4 --constraint node.hostname==ip-172-31-15-152.us-east-2.compute.internal redis:6
 
+<img width="737" alt="Screenshot 2023-04-02 at 18 15 44" src="https://user-images.githubusercontent.com/67044030/229371021-335ba9bb-16b7-4dc7-b85e-43e0486a2831.png">
+
 My Redis caching database and replicas were launched correctly
 
 Phase 6- Verify our Docker Services
