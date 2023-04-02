@@ -21,7 +21,7 @@ With this architecture, the team can ensure that the application has the necessa
 
 In this article, I will walk you thru step-by-step how to create this 3-tiered architecture using docker swarm.
 
-Pre-Requisites
+Pre-requisites
 
 An AWS account
 
