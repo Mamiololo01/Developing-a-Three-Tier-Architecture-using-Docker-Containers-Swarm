@@ -137,6 +137,8 @@ sudo docker swarm join --token SWMTKN-1-2tjq3yi3sxo16rlt3cc4231pplpm1rc75pqrgyis
 
 My Apache node was successfully added to my swarm
 
+<img width="728" alt="Screenshot 2023-04-02 at 17 57 21" src="https://user-images.githubusercontent.com/67044030/229370462-cfccba50-6478-42f6-ab6a-2ec45a5bdd42.png">
+
 For our Redis caching node:
 
 sudo yum update -y # Updates the instance
