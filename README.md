@@ -183,6 +183,8 @@ sudo docker pull httpd:latest # Pulls the latest official Apache image from Dock
 
 sudo docker pull redis:latest # Pulls the latest official Redis image from Docker
 
+<img width="737" alt="Screenshot 2023-04-02 at 18 07 50" src="https://user-images.githubusercontent.com/67044030/229370836-c39a9c67-3ae9-4494-9bb3-7d5bbd321592.png">
+
 sudo docker pull postgres:latest # Pulls the latest official Redis image from Docker
 
 <img width="727" alt="Screenshot 2023-04-02 at 18 07 32" src="https://user-images.githubusercontent.com/67044030/229370758-49721ce7-790d-4193-9bab-37153527e659.png">
