@@ -36,3 +36,12 @@ Phase 1— Creating our VPC, Subnets, & Security Groups
 First, we start by creating our VPC and subnets. We will create each subnet in a different availability zone per our high availability requirements:
 
 
+Next I need to create two different security groups. One for our Manager node and one for our worker nodes.
+
+These security group rules will allow communication between the manager node and the worker nodes on the necessary ports, while restricting access from other sources. By applying these rules, I can ensure that the Docker Swarm cluster is configured securely and can communicate smoothly between the instances, while preventing unauthorized access or attacks from outside the cluster.
+
+Here are the ingress and egress rules for my manager node security group:
+
+
+
+
