@@ -92,6 +92,8 @@ sudo amazon-linux-extras install docker -y # Installs Docker
 
 sudo service docker start # Starts the Docker service
 
+<img width="724" alt="Screenshot 2023-04-02 at 17 29 08" src="https://user-images.githubusercontent.com/67044030/229369855-321d3582-9e40-42f9-accd-e581cf0cd75b.png">
+
 sudo service docker enable # Ensures Docker Service Starts upon instance reboot
 
 
