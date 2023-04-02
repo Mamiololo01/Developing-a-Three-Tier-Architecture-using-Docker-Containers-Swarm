@@ -222,9 +222,12 @@ Phase 6- Verify our Docker Services
 
 To ensure that our docker swarm has been configured to spec, I run ‘docker service ls’ , in order to verify that all services have been created and are in the correct state. I run this command from within my manager node instance:
 
+
+<img width="732" alt="Screenshot 2023-04-02 at 18 25 06" src="https://user-images.githubusercontent.com/67044030/229371127-25c1a83d-ca77-496a-8dfd-a724b4079d4a.png">
+
 sudo docker service ps caching_DB web_server database #To View all of our docker running services
 
-Sweet, Sweet Success!
+
 
 
 
