@@ -63,6 +63,8 @@ From my EC2 Console, I am going to launch four instances, one for the manager no
 
 Here are my details for launching my manager node instance:
 
+<img width="685" alt="Screenshot 2023-04-02 at 17 28 59" src="https://user-images.githubusercontent.com/67044030/229369800-92044b27-22de-4cc5-8a4a-5d6916f7144c.png">
+
 
 Be careful to select the proper VPC, subnet, and swarm-manager-security group
 
