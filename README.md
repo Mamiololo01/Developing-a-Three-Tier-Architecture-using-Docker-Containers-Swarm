@@ -2,6 +2,7 @@
 Scaling Your Web Application with Docker Swarm on AWS
 
 Project Scope
+
 Suppose your business is building a web application that requires a highly available and scalable infrastructure.
 
 To achieve this goal effectively, your team decides to leverage Docker Swarm to manage their containerized services in a more efficient, highly available and automated way.
