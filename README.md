@@ -31,3 +31,8 @@ AWS cloud knowledge: Basic knowledge of AWS cloud services, including EC2 instan
 
 Networking knowledge: Understanding networking concepts such as IP addressing, subnets, and routing, and how to configure networking for containerized applications.
 
+Phase 1— Creating our VPC, Subnets, & Security Groups
+
+First, we start by creating our VPC and subnets. We will create each subnet in a different availability zone per our high availability requirements:
+
+
