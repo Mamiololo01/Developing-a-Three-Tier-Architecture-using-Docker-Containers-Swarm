@@ -169,6 +169,8 @@ The last step in this phase is to verify that all of my worker nodes have joined
 
 sudo docker node ls
 
+<img width="728" alt="Screenshot 2023-04-02 at 17 59 52" src="https://user-images.githubusercontent.com/67044030/229370682-8928db2c-0d10-4cb2-82e6-d03f04ba391a.png">
+
 My swarm is configured correctly.
 
 Phase 5— Creating Docker services for Apache, Redis, and Postgres
