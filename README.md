@@ -50,6 +50,8 @@ Here are the ingress and egress rules for my manager node security group:
 
 Here are the ingress and egress rules for my worker node security group, which allows communication between the worker nodes and the manager node. Additionally, it allows our worker nodes outbound access to the public internet traffic and SSH access in order for us to update our packages and swarm:
 
+<img width="994" alt="Screenshot 2023-04-02 at 17 19 01" src="https://user-images.githubusercontent.com/67044030/229369552-4ef7610c-45a4-4adc-b1f3-229aa707ef9e.png">
+
 
 Phase 2 — Launching our Instances for Swarm Nodes
 
