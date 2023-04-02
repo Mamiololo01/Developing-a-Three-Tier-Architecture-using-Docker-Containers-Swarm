@@ -57,6 +57,8 @@ Phase 2 — Launching our Instances for Swarm Nodes
 
 From my EC2 Console, I am going to launch four instances, one for the manager node and three for the worker nodes.
 
+<img width="705" alt="Screenshot 2023-04-02 at 17 23 31" src="https://user-images.githubusercontent.com/67044030/229369657-27aec1fd-1e37-44c0-8bed-e71237bbf552.png">
+
 Here are my details for launching my manager node instance:
 
 
