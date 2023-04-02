@@ -179,6 +179,8 @@ Next, I need to pull down the official docker image files for what will be our A
 
 sudo docker pull httpd:latest # Pulls the latest official Apache image from Docker
 
+<img width="726" alt="Screenshot 2023-04-02 at 18 03 58" src="https://user-images.githubusercontent.com/67044030/229370723-3f4ebf62-fccc-47fc-9abc-545c3cfd0378.png">
+
 sudo docker pull redis:latest # Pulls the latest official Redis image from Docker
 
 sudo docker pull postgres:latest # Pulls the latest official Redis image from Docker
