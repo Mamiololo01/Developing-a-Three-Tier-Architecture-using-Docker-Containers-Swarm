@@ -39,6 +39,8 @@ First, we start by creating our VPC and subnets. We will create each subnet in a
 
 <img width="1185" alt="Screenshot 2023-04-02 at 16 58 09" src="https://user-images.githubusercontent.com/67044030/229369415-03b63776-9265-4644-828b-0b177666b07c.png">
 
+<img width="975" alt="Screenshot 2023-04-02 at 17 08 27" src="https://user-images.githubusercontent.com/67044030/229369466-2465e0cd-255c-47f0-b022-d5ce4d49505e.png">
+
 Next I need to create two different security groups. One for our Manager node and one for our worker nodes.
 
 These security group rules will allow communication between the manager node and the worker nodes on the necessary ports, while restricting access from other sources. By applying these rules, I can ensure that the Docker Swarm cluster is configured securely and can communicate smoothly between the instances, while preventing unauthorized access or attacks from outside the cluster.
