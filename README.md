@@ -203,6 +203,8 @@ For our Postgres services, we need to set a password to keep the command from fa
 
 sudo docker service create --name database --replicas 1 --constraint node.hostname==ip-172-31-3-225.us-east-2.compute.internal --env POSTGRES_PASSWORD=password postgres
 
+<img width="744" alt="Screenshot 2023-04-02 at 18 15 31" src="https://user-images.githubusercontent.com/67044030/229370922-7dbe0663-243c-4ddb-aaaf-80d00d5eea1e.png">
+
 My Postgres database and replica was launched correctly
 
 Lastly, I will create a Redis service for our application layer of our 3-tiered architecture by once again SSH’ing into my ‘cache’ worker node, in order to deploy four docker services each running a Redis replica
