@@ -215,6 +215,9 @@ sudo docker service create --name caching_DB --replicas 4 --constraint node.host
 
 My Redis caching database and replicas were launched correctly
 
+
+<img width="907" alt="Screenshot 2023-04-02 at 18 26 45" src="https://user-images.githubusercontent.com/67044030/229371088-af8b3f07-3328-44ca-b34a-d5065e3180cf.png">
+
 Phase 6- Verify our Docker Services
 
 To ensure that our docker swarm has been configured to spec, I run ‘docker service ls’ , in order to verify that all services have been created and are in the correct state. I run this command from within my manager node instance:
