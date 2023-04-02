@@ -90,6 +90,8 @@ sudo yum update -y # Updates the instance
 
 sudo amazon-linux-extras install docker -y # Installs Docker
 
+<img width="717" alt="Screenshot 2023-04-02 at 17 46 57" src="https://user-images.githubusercontent.com/67044030/229370027-33995e4f-6317-443d-acf0-2eb7b0b756c0.png">
+
 sudo service docker start # Starts the Docker service
 
 <img width="724" alt="Screenshot 2023-04-02 at 17 29 08" src="https://user-images.githubusercontent.com/67044030/229369855-321d3582-9e40-42f9-accd-e581cf0cd75b.png">
