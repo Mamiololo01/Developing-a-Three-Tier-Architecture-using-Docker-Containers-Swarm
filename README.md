@@ -20,3 +20,14 @@ Postgres (Database-Tier)
 With this architecture, the team can ensure that the application has the necessary resources to handle user requests and that the infrastructure can automatically scale up or down based on demand. Furthermore, by using Docker Swarm, the team can easily manage the containerized services, enabling them to focus on building the application’s core functionality and features.
 
 In this article, I will walk you thru step-by-step how to create this 3-tiered architecture using docker swarm.
+
+Pre-Requisites
+
+An AWS account
+
+Knowledge of containerization and Docker
+
+AWS cloud knowledge: Basic knowledge of AWS cloud services, including EC2 instances, VPCs, and security groups, and how to launch and manage them.
+
+Networking knowledge: Understanding networking concepts such as IP addressing, subnets, and routing, and how to configure networking for containerized applications.
+
