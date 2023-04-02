@@ -150,6 +150,8 @@ sudo docker swarm join --token SWMTKN-1-2tjq3yi3sxo16rlt3cc4231pplpm1rc75pqrgyis
 
 My Redis node was successfully added to my swarm
 
+<img width="733" alt="Screenshot 2023-04-02 at 17 57 36" src="https://user-images.githubusercontent.com/67044030/229370552-5520e4ee-01dc-4728-a98a-366a73da77ca.png">
+
 Finally, for our Postgres Database-Node
 
 sudo yum update -y # Updates the instance
