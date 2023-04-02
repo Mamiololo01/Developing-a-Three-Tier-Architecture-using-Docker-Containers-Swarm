@@ -59,6 +59,8 @@ From my EC2 Console, I am going to launch four instances, one for the manager no
 
 <img width="705" alt="Screenshot 2023-04-02 at 17 23 31" src="https://user-images.githubusercontent.com/67044030/229369657-27aec1fd-1e37-44c0-8bed-e71237bbf552.png">
 
+<img width="726" alt="Screenshot 2023-04-02 at 17 23 41" src="https://user-images.githubusercontent.com/67044030/229369745-abedfaae-7192-4f41-9468-c3eef3442ddf.png">
+
 Here are my details for launching my manager node instance:
 
 
