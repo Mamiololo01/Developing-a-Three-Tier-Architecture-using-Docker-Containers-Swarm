@@ -103,6 +103,8 @@ sudo service docker start # Starts the Docker service
 
 sudo service docker enable # Ensures Docker Service Starts upon instance reboot
 
+<img width="722" alt="Screenshot 2023-04-02 at 17 53 31" src="https://user-images.githubusercontent.com/67044030/229370365-5ea003aa-3d5f-45ba-8e46-55dc69edb0e1.png">
+
 
 Next, I will initialize Docker Swarm by running the following command and adding the IP address for my manager node:
 
