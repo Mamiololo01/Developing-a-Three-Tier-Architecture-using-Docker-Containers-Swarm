@@ -163,6 +163,8 @@ sudo docker swarm join --token SWMTKN-1-2tjq3yi3sxo16rlt3cc4231pplpm1rc75pqrgyis
 
 My Postgres node was successfully added to my swarm
 
+<img width="732" alt="Screenshot 2023-04-02 at 17 59 11" src="https://user-images.githubusercontent.com/67044030/229370628-63412798-9c4d-40a8-bcf9-43a5bddcb783.png">
+
 The last step in this phase is to verify that all of my worker nodes have joined my swarm. Back on my manager node, I run the command docker node ls to see a list of all the nodes in the Swarm cluster, including the worker node(s) that just joined.
 
 sudo docker node ls
