@@ -94,6 +94,9 @@ sudo service docker start # Starts the Docker service
 
 <img width="724" alt="Screenshot 2023-04-02 at 17 29 08" src="https://user-images.githubusercontent.com/67044030/229369855-321d3582-9e40-42f9-accd-e581cf0cd75b.png">
 
+
+<img width="713" alt="Screenshot 2023-04-02 at 17 29 53" src="https://user-images.githubusercontent.com/67044030/229369899-bc73f1d7-aad6-4f44-bb9d-61d6eaa3139a.png">
+
 sudo service docker enable # Ensures Docker Service Starts upon instance reboot
 
 
